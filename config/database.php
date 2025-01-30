@@ -31,3 +31,4 @@ $sqlAgendamentos = "CREATE TABLE IF NOT EXISTS agendamentos (
 $conn->query($sqlUsuarios);
 $conn->query($sqlAgendamentos);
 ?>
+

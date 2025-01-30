@@ -48,7 +48,7 @@
                 <th>Cliente</th>
                 <th>Data</th>
                 <th>Hora</th>
-                <th>Serviço</th>
+                <th>Serviços</th>
             </tr>
         </thead>
         <tbody>

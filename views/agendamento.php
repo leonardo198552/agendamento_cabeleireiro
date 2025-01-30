@@ -21,3 +21,4 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
     </select>
     <button type="submit">Agendar</button>
 </form>
+
